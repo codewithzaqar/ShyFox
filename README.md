@@ -1,6 +1,8 @@
 initialized : Sun 20 Aug 2023 03∶41∶08 PM IST
 # youSearch - Simplifying Your Browsing Experience
-![Screenshot 1](https://live.staticflickr.com/65535/53156864266_1fd519ab86_k.jpg)
+![Screenshot 1](https://live.staticflickr.com/65535/53173243739_31ac6fc27d_k.jpg)
+![Screenshot 2](https://live.staticflickr.com/65535/53173530093_79a3f6fa47_k.jpg)
+![Screenshot 3](https://live.staticflickr.com/65535/53173243754_516b0e27c2_k.jpg)
 
 Welcome to youSearch, where simplicity meets functionality. Our browser homepage is thoughtfully designed, taking inspiration from Google's Material Design principles. With youSearch, we bring you a seamless browsing experience that empowers you to explore the web effortlessly.
 
